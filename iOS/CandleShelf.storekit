@@ -1,0 +1,27 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "1001",
+      "localizations": [
+        {
+          "description": "Burn-rotation scheduler and scent-pairing notes",
+          "displayName": "Candle Shelf Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "candleshelf.pro",
+      "referenceName": "Candle Shelf Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
